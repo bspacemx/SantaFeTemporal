@@ -963,6 +963,13 @@ h6,
 }
 
 
+#slider-1f H2 {
+  font-size: 80px;
+  text-align: center;
+}
+#slider-1f .mbr-section-title {
+  text-shadow: 3px 3px 8px #271100;
+}
 #menu-1d .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1030,13 +1037,6 @@ h6,
 }
 #menu-1d .btn {
   font-size: 16px;
-}
-#slider-1f H2 {
-  font-size: 80px;
-  text-align: center;
-}
-#slider-1f .mbr-section-title {
-  text-shadow: 3px 3px 8px #271100;
 }
 
 
@@ -1114,80 +1114,6 @@ h6,
 }
 
 
-#menu-1v .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-1v .navbar-caption {
-  color: #ffffff;
-}
-#menu-1v .navbar-toggler {
-  color: #7d6a55;
-}
-#menu-1v .close-icon::before,
-#menu-1v .close-icon::after {
-  background-color: #7d6a55;
-}
-#menu-1v .link,
-#menu-1v .dropdown-item {
-  color: #7d6a55;
-  font-family: 'Alegreya Sans SC', sans-serif;
-}
-#menu-1v .link {
-  font-size: 1rem;
-}
-#menu-1v .dropdown-item,
-#menu-1v .nav-dropdown-sm .link {
-  font-size: 1.083rem;
-}
-#menu-1v .link:hover,
-#menu-1v .dropdown-item:hover,
-#menu-1v .link:focus,
-#menu-1v .dropdown-item:focus {
-  color: #271100;
-}
-#menu-1v .link[aria-expanded="true"],
-#menu-1v .dropdown-menu {
-  background: #e6e6e6;
-}
-#menu-1v .nav-dropdown-sm .link:focus,
-#menu-1v .nav-dropdown-sm .link:hover,
-#menu-1v .nav-dropdown-sm .dropdown-item:focus,
-#menu-1v .nav-dropdown-sm .dropdown-item:hover {
-  background: #f7f7f7!important;
-}
-#menu-1v .navbar,
-#menu-1v .nav-dropdown-sm,
-#menu-1v .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-1v .nav-dropdown-sm .dropdown-menu {
-  background: #ffffff;
-}
-#menu-1v .bg-color.transparent .link {
-  color: #7d6a55;
-  transition: none;
-}
-#menu-1v .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-1v .bg-color.transparent.opened .link:hover,
-#menu-1v .bg-color.transparent.opened .link:focus {
-  color: #271100;
-}
-#menu-1v .link[aria-expanded="true"],
-#menu-1v .dropdown-item[aria-expanded="true"] {
-  color: #271100!important;
-}
-#menu-1v A {
-  font-family: 'Alegreya Sans SC', sans-serif;
-}
-#menu-1v .btn {
-  font-size: 16px;
-}
-#slider-1x H2 {
-  font-size: 80px;
-  text-align: center;
-}
-
-
 #menu-20 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1256,9 +1182,23 @@ h6,
 #menu-20 .btn {
   font-size: 16px;
 }
+#header3-5r .mbr-section-title,
+#header3-5r .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-5r .mbr-section-title {
+  color: #271100;
+}
 #slider-22 H2 {
   font-size: 80px;
   text-align: center;
+}
+#header3-5o .mbr-section-title,
+#header3-5o .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-5o .mbr-section-title {
+  color: #271100;
 }
 
 
