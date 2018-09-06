@@ -295,7 +295,7 @@
             "showArrow": true,
             "imageSize": "20",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/sunny-forest-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/woods02-1600x960.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#271100",
