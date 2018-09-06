@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Santa Fe",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -917,6 +917,18 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/sala-5-800x550.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/sala-5-800x550-800x550.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/sala-7-800x550.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sala-7-800x550-800x550.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
