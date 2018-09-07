@@ -776,12 +776,19 @@ h6,
 #extHeader17-j .mbr-section-title {
   text-shadow: 3px 3px 6px #271100;
 }
-#extSlider2-65 H2 {
+#header3-6f .mbr-section-title,
+#header3-6f .mbr-section-subtitle {
   text-align: center;
+}
+#header3-6f .mbr-section-title {
+  color: #271100;
 }
 #header3-n .mbr-section-title,
 #header3-n .mbr-section-subtitle {
   text-align: center;
+}
+#header3-n .mbr-section-title {
+  color: #271100;
 }
 #extFeatures12-m .mbr-iconfont-features4 {
   color: undefined !important;
@@ -1643,9 +1650,6 @@ h6,
 }
 #menu-3t .btn {
   font-size: 16px;
-}
-#slider3-3v .mbr-section-title {
-  text-shadow: 0px 0px 8px #271100;
 }
 #header3-3w .mbr-section-title,
 #header3-3w .mbr-section-subtitle {
