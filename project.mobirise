@@ -4838,7 +4838,8 @@
               "text-align": "center",
               "color": "#7d6a55"
             }
-          }
+          },
+          "_customCSS": ""
         },
         {
           "_styles": {
