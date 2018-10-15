@@ -775,6 +775,14 @@ h6,
 }
 #extHeader17-j .mbr-section-title {
   text-shadow: 3px 3px 6px #271100;
+  text-align: right;
+}
+#extHeader17-j .right {
+  position: absolute;
+  right: 240px;
+  bottom: 240px;
+  width: 300px;
+  padding: 10px;
 }
 #header3-6f .mbr-section-title,
 #header3-6f .mbr-section-subtitle {
@@ -1363,7 +1371,7 @@ h6,
 }
 #extFeatures2-2m P {
   font-size: 20px;
-  color: #7d6a55;
+  color: #271100;
 }
 #extFeatures2-2m H2 {
   color: #7d6a55;
@@ -1396,6 +1404,16 @@ h6,
   color: #7d6a55;
 }
 #extFeatures6-2r .card-subtitle {
+  font-size: 20px;
+}
+#extFeatures6-6p .card-img {
+  background-color: #efefef !important;
+}
+#extFeatures6-6p H4 {
+  font-size: 30px;
+  color: #7d6a55;
+}
+#extFeatures6-6p .card-subtitle {
   font-size: 20px;
 }
 
@@ -1751,6 +1769,9 @@ h6,
 }
 #form1-4w {
   
+}
+#form1-4w .form-control-label {
+  color: #232323;
 }
 #form1-4w .form-control-label {
   color: #232323;
