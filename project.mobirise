@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Santa Fe",
-    "currentPage": "page11.html",
+    "currentPage": "page12.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -427,8 +427,8 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/channel/UCDjLLIR6D2stIDdaXi2yRkQ\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">a</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-6e",
-          "_customCSS": "",
-          "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"1055\" style=\"background-color: rgb(255, 255, 255); padding-top: 40px; padding-bottom: 40px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              <div class=\"mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 100%;\">\n                  <div class=\"mbr-figure\"><iframe class=\"mbr-embedded-video\" src=\"https://www.youtube.com/embed/bU1SkzGZRQY?rel=0&amp;amp;showinfo=0&amp;autoplay=0&amp;loop=0\" width=\"1280\" height=\"720\" frameborder=\"0\" allowfullscreen=\"\"></iframe></div>\n              </div>\n\n              \n\n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-left content-size\">\n                  \n                  \n\n                  \n              </div>\n\n\n              \n\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customCSS": ".mbr-embedded-video {\n    margin: auto;\n    width: 100%;\n}",
+          "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"1055\" style=\"background-color: rgb(255, 255, 255); padding-top: 40px; padding-bottom: 40px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              <div class=\"mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 100%;\">\n                  <div class=\"mbr-figure\"><iframe class=\"mbr-embedded-video\" src=\"https://www.youtube.com/embed/bU1SkzGZRQY?rel=0&amp;amp;showinfo=0&amp;autoplay=0&amp;loop=0\" width=\"1280\" height=\"720\" frameborder=\"0\" allowfullscreen=\"\"></iframe></div>\n              </div>\n\n\n              \n\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customTemplate": true
@@ -5206,7 +5206,7 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-6i",
-          "_customCSS": "",
+          "_customCSS": ".mbr-embedded-video {\n    margin: auto;\n    width: 100%;\n}",
           "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"2137\" style=\"background-color: rgb(255, 255, 255); padding-top: 0px; padding-bottom: 0px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              <div class=\"mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 100%;\">\n                  <div class=\"mbr-figure\"><iframe class=\"mbr-embedded-video\" src=\"https://www.youtube.com/embed/M5_rtIeZN3w?rel=0&amp;amp;showinfo=0&amp;autoplay=1&amp;loop=1&amp;playlist=M5_rtIeZN3w\" width=\"1280\" height=\"720\" frameborder=\"0\" allowfullscreen=\"\"></iframe></div>\n              </div>\n\n              \n\n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-left content-size\">\n                  \n                  \n\n                  \n              </div>\n\n\n              \n\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
