@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Santa Fe",
-    "currentPage": "page12.html",
+    "currentPage": "page9.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -4060,7 +4060,7 @@
             "iconsColorBG": "#efefef",
             "paddingTop": "0",
             "paddingBottom": "0",
-            "columns": "2",
+            "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/extFeatures3/images/img_extFeatures6_bg.jpg",
             "parallax": true,
@@ -4081,7 +4081,7 @@
               "name": "mexico",
               "family": "iconsMind",
               "active": true,
-              "link": "page9.html#extFeatures6-2j",
+              "link": "page9.html#extFeatures2-2m",
               "size": 0,
               "color": "#ffffff",
               "newWindow": false
@@ -4094,7 +4094,7 @@
               "name": "mexico",
               "family": "iconsMind",
               "active": true,
-              "link": "page9.html#extFeatures6-2j",
+              "link": "page9.html#extFeatures2-2m",
               "size": 0,
               "color": "#ffffff",
               "newWindow": false
@@ -4102,13 +4102,15 @@
           },
           "media3": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "pencil",
-              "link": "https://mobirise.com",
+              "linkInNewWindow": false,
+              "name": "mexico",
+              "family": "iconsMind",
+              "active": true,
+              "link": "page9.html#extFeatures2-2m",
               "size": 0,
               "color": "#ffffff",
-              "family": "et-line"
+              "newWindow": false
             }
           },
           "media4": {
@@ -4129,8 +4131,8 @@
           "subtitle2": "México",
           "caption2": "SEVILLA HOME<br><a href=\"https://sevillahome.mx/\" target=\"_blank\">https://sevillahome.mx/</a><br>",
           "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "subtitle3": "México",
+          "caption3": "MUEBLERÍA AZAHARES<br><a href=\"https://goo.gl/maps/d7ArUmM2ZQA2\" target=\"_blank\">https://goo.gl/maps/d7ArUmM2ZQA2</a><br><br>",
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
