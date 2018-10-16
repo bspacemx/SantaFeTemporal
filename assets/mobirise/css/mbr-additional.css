@@ -791,9 +791,13 @@ h6,
 #header3-6f .mbr-section-title {
   color: #271100;
 }
-#msg-box4-6e .mbr-embedded-video {
+#custom-html-6r {
+  /* Type valid CSS here */
+}
+#custom-html-6r .video {
+  display: block;
   margin: auto;
-  width: 100%;
+  width: 60%;
 }
 #header3-n .mbr-section-title,
 #header3-n .mbr-section-subtitle {
@@ -1680,9 +1684,10 @@ h6,
 #header3-3w .mbr-section-title {
   color: #271100;
 }
-#msg-box4-6i .mbr-embedded-video {
+#custom-html-6q .video {
+  display: block;
   margin: auto;
-  width: 100%;
+  width: 60%;
 }
 #content1-3x P {
   text-align: center;
