@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Santa Fe",
-    "currentPage": "index.html",
+    "currentPage": "page12.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -367,7 +367,7 @@
           "_params": {
             "showMeta": false,
             "paddingTop": "4",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgColor": "#fff"
           },
           "title": "Conócenos",
