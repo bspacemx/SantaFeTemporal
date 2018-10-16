@@ -773,17 +773,6 @@ h6,
   font-size: 20px;
   text-align: center;
 }
-#extHeader17-j .mbr-section-title {
-  text-shadow: 3px 3px 6px #271100;
-  text-align: right;
-}
-#extHeader17-j .right {
-  position: absolute;
-  right: 240px;
-  bottom: 240px;
-  width: 300px;
-  padding: 10px;
-}
 #header3-6f .mbr-section-title,
 #header3-6f .mbr-section-subtitle {
   text-align: center;
@@ -794,10 +783,32 @@ h6,
 #custom-html-6r {
   /* Type valid CSS here */
 }
-#custom-html-6r .video {
-  display: block;
-  margin: auto;
-  width: 60%;
+#custom-html-6r .video-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 30px;
+  height: 0;
+  overflow: hidden;
+}
+#custom-html-6r .video-container iframe,
+#custom-html-6r .video-container object,
+#custom-html-6r .video-container embed {
+  position: absolute;
+  top: 0;
+  left: 10%;
+  width: 80%;
+  height: 80%;
+}
+@media only screen and (max-width: 600px) {
+  #custom-html-6r .video-container iframe,
+  #custom-html-6r .video-container object,
+  #custom-html-6r .video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
 }
 #header3-n .mbr-section-title,
 #header3-n .mbr-section-subtitle {
@@ -1684,10 +1695,32 @@ h6,
 #header3-3w .mbr-section-title {
   color: #271100;
 }
-#custom-html-6q .video {
-  display: block;
-  margin: auto;
-  width: 60%;
+#custom-html-6q .video-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 30px;
+  height: 0;
+  overflow: hidden;
+}
+#custom-html-6q .video-container iframe,
+#custom-html-6q .video-container object,
+#custom-html-6q .video-container embed {
+  position: absolute;
+  top: 0;
+  left: 10%;
+  width: 80%;
+  height: 80%;
+}
+@media only screen and (max-width: 600px) {
+  #custom-html-6q .video-container iframe,
+  #custom-html-6q .video-container object,
+  #custom-html-6q .video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
 }
 #content1-3x P {
   text-align: center;

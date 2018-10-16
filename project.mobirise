@@ -69,7 +69,7 @@
     "gdpr": "",
     "siteUrl": "undefined",
     "versionFirst": "4.7.7",
-    "uniqCompNum": 244,
+    "uniqCompNum": 246,
     "versionPublish": "4.7.7",
     "screenshot": "screenshot.png"
   },
@@ -288,72 +288,27 @@
         },
         {
           "_params": {
-            "showImage": true,
-            "showTitle": true,
-            "showText": false,
-            "showButton": false,
-            "showArrow": true,
-            "imageSize": "19",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/fsc-2-2000x1335.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#271100",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
+            "showText": false
           },
-          "title": "<br>Nuesta madera viene 100%<br>de bosques reforestados",
-          "text": "Full-screen intro with image at the top. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
-          "button": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary text-xs-center\">GET FREE TRIAL</a>",
           "media": {
             "image": {
               "active": true,
+              "src": "@PROJECT_PATH@/assets/images/sfr-natureheader-1400x935.jpg",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/fsc-wh-1086x1350.png",
               "link": "",
               "alt": "",
               "title": ""
             },
             "video": {
-              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 0
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "form": {
-            "action": "danns.andrade@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "email": {
-                "title": "Email",
-                "customTitle": "Enter Your Email"
-              }
-            }
-          },
-          "alias": "mobirise3-blocks/components",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
           "_tags": [
-            "Extensión"
+            "Tema"
           ],
-          "_name": "extHeader17",
-          "_anchor": "extHeader17-j",
-          "_customCSS": ".mbr-section-title {\n    text-shadow: 3px 3px 6px #271100;\n    text-align: right;\n}\n\n.right {\n    position: absolute;\n    right: 240px;\n    bottom: 240px;\n    width: 300px;\n    padding: 10px;\n}",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full extHeader17\" data-rv-view=\"14\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/fsc-2-2000x1335.jpg&quot;);\">\n\n    \n        <div class=\"mbr-table-cell\">\n            <div class=\"container\">\n\n                    <div id=\"title\">\n                        <div class=\"mbr-figure image-size right\" style=\"width: 19%; font-size: 47.5px;\"><img src=\"@PROJECT_PATH@/assets/images/fsc-wh-1086x1350.png\"></div>\n                        <div class=\"mbr-table-cell col-md-6 text-xs-center text-md-left\">\n\n                            <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"32\"><br>Nuesta madera viene 100%<br>de bosques reforestados</h3>\n\n                            <div class=\"mbr-section-text lead\">\n                                \n                            </div>\n                        </div>\n                        \n                    </div>\n            </div> \n        </div> \n    <div class=\"mbr-arrow mbr-arrow-floating hidden-sm-down\" aria-hidden=\"true\"><a href=\"#header3-6f\"><i class=\"mbr-arrow-icon\"></i></a></div>                 \n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customTemplate": true
+          "_name": "image1",
+          "_anchor": "image1-6t"
         },
         {
           "_styles": {
@@ -381,8 +336,8 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n<iframe class=\"video\" width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/bU1SkzGZRQY\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen=\"\"></iframe>",
-          "_customCSS": "/* Type valid CSS here */\n.video {\n    display: block;\n    margin:auto;\n    width: 60%;\n}",
+          "_customHTML": "<!-- Type valid HTML here -->\n<div class=\"video-container\">\n<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/bU1SkzGZRQY\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen=\"\"></iframe>\n</div>",
+          "_customCSS": "/* Type valid CSS here */\n.video-container {\n    position: relative;\n    padding-bottom: 56.25%;\n    padding-top: 30px; height: 0; overflow: hidden;\n}\n\n.video-container iframe,\n.video-container object,\n.video-container embed {\n    position: absolute;\n    top: 0;\n    left: 10%;\n    width: 80%;\n    height: 80%;\n}\n\n@media only screen and (max-width: 600px) {\n    .video-container iframe,\n.video-container object,\n.video-container embed {\n    position: absolute;\n    top: 0;\n    left: 0;\n    width: 100%;\n    height: 100%;\n}\n}",
           "alias": "code-editor",
           "_tags": [
             "Extensión"
@@ -5119,8 +5074,8 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<iframe class=\"video\" width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/M5_rtIeZN3w\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen=\"\"></iframe>",
-          "_customCSS": ".video {\n    display: block;\n    margin:auto;\n    width: 60%;\n}",
+          "_customHTML": "<div class=\"video-container\">\n    <iframe class=\"video\" width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/M5_rtIeZN3w\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen=\"\"></iframe>\n</div>",
+          "_customCSS": ".video-container {\n    position: relative;\n    padding-bottom: 56.25%;\n    padding-top: 30px; height: 0; overflow: hidden;\n}\n\n.video-container iframe,\n.video-container object,\n.video-container embed {\n    position: absolute;\n    top: 0;\n    left: 10%;\n    width: 80%;\n    height: 80%;\n}\n\n@media only screen and (max-width: 600px) {\n    .video-container iframe,\n.video-container object,\n.video-container embed {\n    position: absolute;\n    top: 0;\n    left: 0;\n    width: 100%;\n    height: 100%;\n}\n}",
           "alias": "code-editor",
           "_tags": [
             "Extensión"
