@@ -69,7 +69,7 @@
     "gdpr": "",
     "siteUrl": "undefined",
     "versionFirst": "4.7.7",
-    "uniqCompNum": 251,
+    "uniqCompNum": 258,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png"
   },
@@ -185,32 +185,32 @@
         },
         {
           "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false,
-            "showArrow": false,
-            "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/sfr-homeheader-2000x864.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#a07e49",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
+            "showText": false
           },
-          "title": "FULL SCREEN INTRO",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/web2-1400x605.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
           "_tags": [
             "Tema"
           ],
-          "_name": "header1",
-          "_anchor": "header1-6y"
+          "_name": "image1",
+          "_anchor": "image1-73",
+          "_customCSS": "@media screen and (max-width: 992px) {\n    img {\n    display:block;\n    margin:0 auto;\n    padding-top: 75px;\n    max-width: 100%;\n    }\n}",
+          "_customHTML": "<section class=\"mbr-section mbr-section-nopadding mbr-figure--caption-outside-bottom mbr-after-navbar\" data-rv-view=\"45\">\n    <div class=\"mbr-figure\">\n        <div><img src=\"@PROJECT_PATH@/assets/images/web2-sfr.jpg\"></div>\n        \n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customTemplate": true
         },
         {
           "_styles": {

@@ -761,6 +761,14 @@ h6,
 #menu-e .btn {
   font-size: 16px;
 }
+@media screen and (max-width: 992px) {
+  #image1-73 img {
+    display: block;
+    margin: 0 auto;
+    padding-top: 75px;
+    max-width: 100%;
+  }
+}
 #header3-8 .mbr-section-title,
 #header3-8 .mbr-section-subtitle {
   text-align: center;
