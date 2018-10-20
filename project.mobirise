@@ -69,7 +69,7 @@
     "gdpr": "",
     "siteUrl": "undefined",
     "versionFirst": "4.7.7",
-    "uniqCompNum": 258,
+    "uniqCompNum": 261,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png"
   },
@@ -189,25 +189,25 @@
           },
           "media": {
             "image": {
-              "active": true,
               "src": "@PROJECT_PATH@/assets/images/web2-1400x605.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "active": true
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "text": "<p>Cut down the development time with drag-and-drop website builder.</p>",
           "_tags": [
             "Tema"
           ],
-          "_name": "image1",
-          "_anchor": "image1-73",
+          "_name": "video1",
+          "_anchor": "video1-75",
           "_customCSS": "@media screen and (max-width: 992px) {\n    img {\n    display:block;\n    margin:0 auto;\n    padding-top: 75px;\n    max-width: 100%;\n    }\n}",
-          "_customHTML": "<section class=\"mbr-section mbr-section-nopadding mbr-figure--caption-outside-bottom mbr-after-navbar\" data-rv-view=\"45\">\n    <div class=\"mbr-figure\">\n        <div><img src=\"@PROJECT_PATH@/assets/images/web2-sfr.jpg\"></div>\n        \n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-nopadding mbr-after-navbar\" data-rv-view=\"1398\">\n\n    <div class=\"mbr-figure\">\n        <div><img src=\"@PROJECT_PATH@/assets/images/web2-sfr.jpg\"></div>\n        \n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customTemplate": true
